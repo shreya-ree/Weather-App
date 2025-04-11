@@ -2,15 +2,17 @@
 
 A sleek and modern weather application built with Jetpack Compose for Android that allows users to check current weather conditions for any city.
 
-## User Interface
-
-<p align="center">
-  <img src="Weather%20App%20Screenshot1.png" alt="Dark Mode" width="250"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Weather%20App%20Screenshot%202.png" alt="Light Mode" width="250"/>
-</p>
-
-
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align:center"><h3>User Interface</h3></th>
+    </tr>
+  </thead>
+  <tr>
+    <td><img src="Weather%20App%20Screenshot1.png" alt="Dark Mode" width="250"/></td>
+    <td><img src="Weather%20App%20Screenshot%202.png" alt="Light Mode" width="250"/></td>
+  </tr>
+</table>
 
 ## Features
 
